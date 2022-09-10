@@ -1,6 +1,6 @@
 
 
-<p align="center"> <img src="https://i.pinimg.com/originals/75/95/2d/75952ddbecd4743baf83236395b20541.gif"
+<p align="center"> <img src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif"
             alt="Avater image"> </p>
 <h1 align="center">Hi 👋, I'm Ashikur Rahman</h1>
 <h3 align="center">A enthusiastic learner and developer from Bangladesh</h3>
