@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **MERN stack Web development**
 
-- 🌱 I’m currently learning **Next JS ,Typescript ,Graph QL**
+- 🌱 I’m currently learning **Next JS,Typescript, Graph QL, Shopify**
 
 - 👯 I’m looking to collaborate on **Any Web development project**
 
