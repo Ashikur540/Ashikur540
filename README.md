@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/md-ashikurrahman">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=React+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+Laravel;WordPress+plugins+on+8%2C000%2B+sites;Building+a+live+customer-support+SaaS;Open+to+remote+full-time+roles" alt="What I do" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=React+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Laravel;From+idea+to+production;Building+Helpxon%2C+a+live+SaaS+with+AI+replies;Available+from+January+2027" alt="What I do" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20work-Remote%20%C2%B7%20Full--time-22c55e?style=for-the-badge" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Open%20to%20work-from%20Jan%202027-22c55e?style=for-the-badge" alt="Open to work" />
   <a href="https://linkedin.com/in/md-ashikurrahman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:meashik1000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://ashikur-on-web.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -20,15 +20,16 @@
 ## 👋 About me
 
 I build React and TypeScript products end to end: the interface people use,
-and the Laravel or Node.js API behind it. For 3+ years I have shipped
-WordPress plugins used on 8,000+ sites, Shopify apps, and a live SaaS.
+and the Laravel or Node.js API behind it. In 3+ years I have built a SaaS
+from scratch to production, Shopify apps, and plugins used on 8,000+ sites,
+front end and back end.
 
 I care about the things users never see but always feel: a booking that
 cannot be taken twice, a price that cannot be changed in the browser, and
 components a whole team can reuse.
 
-🌍 **Open to full-time remote roles** with teams in Europe, the UK and the US,
-or in Dhaka. Available from January 2027.
+🌍 **Available for full-time roles from January 2027.** Remote first, and
+on-site works too for the right team.
 
 ## 🚀 Projects
 
@@ -46,8 +47,9 @@ layouts like cards, forms and pricing tables, and runs fully in the browser.
 
 A live multi-tenant customer-support SaaS. Each company gets its own
 workspace on a subdomain, with an inbox, tickets, a knowledge base, live chat
-and AI replies. I built most of the React app and the chat widget that sites
-add with one script, plus Laravel APIs and the PostgreSQL schema.
+and AI replies. Built from scratch to production: I did the product design,
+most of the React app, the chat widget that sites add with one script,
+Laravel APIs, the PostgreSQL schema, and the launch videos.
 
 <a href="https://helpxon.com"><img src="https://img.shields.io/badge/Website-helpxon.com-2563eb?style=flat-square" alt="helpxon.com" /></a>
 <img src="https://img.shields.io/badge/Code-private-6b7280?style=flat-square" alt="Private code" />
@@ -73,16 +75,16 @@ hadith under it.
 
 ## 💼 At work: [Arraytics](https://arraytics.com)
 
+- **AI chat widget** for the Aisentic assistant: streaming replies, Markdown,
+  and Shadow DOM so a site's theme cannot break it.
 - **Main developer of [Timetics](https://wordpress.org/plugins/timetics/) and
-  [Booktics](https://wordpress.org/plugins/booktics/)**, two booking plugins
-  with 2,800+ active installs. I shipped recurring bookings, coupons,
+  [Booktics](https://wordpress.org/plugins/booktics/)** since Sep 2026, two
+  booking plugins with 2,800+ active installs. I shipped recurring bookings, coupons,
   round-robin staff assignment, WooCommerce payments and WhatsApp reminders.
 - **Safe bookings and payments:** fixed race conditions that let two
   customers book the same slot, and moved pricing to the server.
 - **[WP Cafe](https://wordpress.org/plugins/wp-cafe/) v3** (5,000+ installs):
   one-page checkout, deposit payments, daily order limits and WPML support.
-- **AI chat widget** for the Aisentic assistant: streaming replies, Markdown,
-  and Shadow DOM so a site's theme cannot break it.
 - **Shared SDKs used in 5 products**, including a React Flow automation
   builder, so no product team has to build its own.
 
@@ -92,9 +94,9 @@ hadith under it.
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css,sass&theme=dark" alt="Frontend skills" />
 
-**Backend & WordPress**
+**Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,postgres,mongodb,firebase,wordpress&theme=dark" alt="Backend skills" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,postgres,mongodb,firebase&theme=dark" alt="Backend skills" />
 
 **Testing & tools**
 
