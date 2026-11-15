@@ -116,4 +116,4 @@ hadith under it.
   <img width="100%" src="https://raw.githubusercontent.com/Ashikur540/Ashikur540/output/github-snake.svg" alt="Snake eating my contribution graph" />
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer" alt="" />
