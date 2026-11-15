@@ -20,13 +20,12 @@
 ## 👋 About me
 
 I build React and TypeScript products end to end: the interface people use,
-and the Laravel or Node.js API behind it. In 3+ years I have built a SaaS
-from scratch to production, Shopify apps, and plugins used on 8,000+ sites,
-front end and back end.
+and the Laravel or Node.js API behind it, with 3+ years of shipping to real
+users.
 
-I care about the things users never see but always feel: a booking that
-cannot be taken twice, a price that cannot be changed in the browser, and
-components a whole team can reuse.
+I turn ideas into working products. Design, front end, back end, launch:
+I've done every step, from a SaaS built from scratch to plugins running on
+8,000+ sites.
 
 🌍 **Available for full-time roles from January 2027.** Remote first, and
 on-site works too for the right team.
