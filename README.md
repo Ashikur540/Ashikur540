@@ -1,20 +1,20 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Ashikur%20Rahman&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Frontend-focused%20Full-stack%20Developer%20%C2%B7%20Dhaka%2C%20Bangladesh&descAlignY=58&descSize=16" alt="Ashikur Rahman" />
+<img width="100%" src="assets/notebook-header.svg" alt="Ashikur Rahman. Frontend-focused full-stack developer. I turn ideas into working products. Dhaka, Bangladesh." />
 
 <p align="center">
   <a href="https://linkedin.com/in/md-ashikurrahman">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=React+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Laravel;From+idea+to+production;Building+Helpxon%2C+a+live+SaaS+with+AI+replies;Available+from+January+2027" alt="What I do" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2546D8&center=true&vCenter=true&width=600&lines=React+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Laravel;From+idea+to+production;Building+Helpxon%2C+a+live+SaaS+with+AI+replies;Available+from+January+2027" alt="What I do" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20work-from%20Jan%202027-22c55e?style=for-the-badge" alt="Open to work" />
-  <a href="https://linkedin.com/in/md-ashikurrahman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:meashik1000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://ashikur-on-web.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://img.shields.io/badge/Open%20to%20work-from%20Jan%202027-ffe14d?style=for-the-badge&labelColor=0f1b3d" alt="Open to work" />
+  <a href="https://linkedin.com/in/md-ashikurrahman"><img src="https://img.shields.io/badge/LinkedIn-0f1b3d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:meashik1000@gmail.com"><img src="https://img.shields.io/badge/Email-0f1b3d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://ashikur-on-web.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f1b3d?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashikur540&label=Profile%20views&color=2563eb&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ashikur540&label=Profile%20views&color=2546d8&style=flat" alt="Profile views" />
 </p>
 
 ## 👋 About me
@@ -38,7 +38,7 @@ Paste a React component, get a matching skeleton loader, tweak it, copy the
 code. No more drawing grey boxes by hand. It reads your JSX with Babel, spots
 layouts like cards, forms and pricing tables, and runs fully in the browser.
 
-<a href="https://skeletons-studio.vercel.app"><img src="https://img.shields.io/badge/Live%20demo-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+<a href="https://skeletons-studio.vercel.app"><img src="https://img.shields.io/badge/Live%20demo-2546d8?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
 <a href="https://github.com/Ashikur540/skeleton-studio"><img src="https://img.shields.io/github/stars/Ashikur540/skeleton-studio?style=flat-square&logo=github" alt="Stars" /></a>
 `Next.js` `React 19` `TypeScript` `Zustand` `Tailwind CSS` `Vitest`
 
@@ -50,7 +50,7 @@ and AI replies. Built from scratch to production: I did the product design,
 most of the React app, the chat widget that sites add with one script,
 Laravel APIs, the PostgreSQL schema, and the launch videos.
 
-<a href="https://helpxon.com"><img src="https://img.shields.io/badge/Website-helpxon.com-2563eb?style=flat-square" alt="helpxon.com" /></a>
+<a href="https://helpxon.com"><img src="https://img.shields.io/badge/Website-helpxon.com-2546d8?style=flat-square" alt="helpxon.com" /></a>
 <img src="https://img.shields.io/badge/Code-private-6b7280?style=flat-square" alt="Private code" />
 `React` `TypeScript` `Laravel` `PostgreSQL` `Docker`
 
@@ -60,7 +60,7 @@ An offline-first app to track daily good deeds, with a heatmap, streaks,
 reminders and prayer times from your location. Install it on your phone like
 a normal app.
 
-<a href="https://hasanat-3375b.web.app"><img src="https://img.shields.io/badge/Live%20app-2563eb?style=flat-square&logo=firebase&logoColor=white" alt="Live app" /></a>
+<a href="https://hasanat-3375b.web.app"><img src="https://img.shields.io/badge/Live%20app-2546d8?style=flat-square&logo=firebase&logoColor=white" alt="Live app" /></a>
 `React` `Vite` `TypeScript` `Firebase` `TanStack Query` `PWA`
 
 ### [Tadhkir Loop](https://github.com/Ashikur540/tadhkir-loop)
@@ -104,17 +104,15 @@ hadith under it.
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Ashikur540&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=Ashikur540&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Ashikur540&show_icons=true&hide_border=true&count_private=true&bg_color=0f1b3d&title_color=ffe14d&icon_color=ffe14d&text_color=ffffff" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=Ashikur540&layout=compact&hide_border=true&langs_count=8&bg_color=0f1b3d&title_color=ffe14d&text_color=ffffff" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ashikur540&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ashikur540&hide_border=true&background=0F1B3D&ring=FFE14D&fire=FFE14D&currStreakNum=FFFFFF&currStreakLabel=FFE14D&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AFB8D6&stroke=2546D8" alt="GitHub streak" />
 </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashikur540/Ashikur540/output/github-snake-dark.svg" />
   <img width="100%" src="https://raw.githubusercontent.com/Ashikur540/Ashikur540/output/github-snake.svg" alt="Snake eating my contribution graph" />
 </picture>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer" alt="" />
